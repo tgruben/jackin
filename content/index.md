@@ -37,3 +37,8 @@ digraph BPlusTree {
   // no need to specify again, green style applied above
 }
 ```
+
+```mermaid
+flowchart TD
+    Start --> Stop
+```
