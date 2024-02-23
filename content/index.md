@@ -17,3 +17,5 @@ fn main(){
 println!("hello world");
 }
 ```
+
+[[Thoughts]]
