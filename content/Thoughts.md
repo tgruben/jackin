@@ -1,0 +1,1 @@
+still exploring the quartz interaction with obsidian
